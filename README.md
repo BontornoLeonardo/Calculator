@@ -4,3 +4,5 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>JAVASCRIPT</li>
+
+CSS und JAVASCRIPT sind in dieser HTML datei inbegriffen.
